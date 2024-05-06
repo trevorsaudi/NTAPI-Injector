@@ -1,0 +1,20 @@
+﻿  NtapiInjector.c
+C:\Users\PC\Desktop\Maldev\NtapiInjector\NtapiInjector\NtapiInjector.c(88,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Maldev\NtapiInjector\NtapiInjector\NtapiInjector.c(132,21): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\PC\Desktop\Maldev\NtapiInjector\NtapiInjector\NtapiInjector.c(140,12): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'SIZE_T'
+  C:\Users\PC\Desktop\Maldev\NtapiInjector\NtapiInjector\NtapiInjector.c(140,12):
+  consider using '%lld' in the format string
+  C:\Users\PC\Desktop\Maldev\NtapiInjector\NtapiInjector\NtapiInjector.c(140,12):
+  consider using '%Id' in the format string
+  C:\Users\PC\Desktop\Maldev\NtapiInjector\NtapiInjector\NtapiInjector.c(140,12):
+  consider using '%I64d' in the format string
+  
+C:\Users\PC\Desktop\Maldev\NtapiInjector\NtapiInjector\NtapiInjector.c(158,38): warning C4312: 'type cast': conversion from 'DWORD' to 'HANDLE' of greater size
+C:\Users\PC\Desktop\Maldev\NtapiInjector\NtapiInjector\NtapiInjector.c(103,13): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\PC\Desktop\Maldev\NtapiInjector\NtapiInjector\NtapiInjector.c(148,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  Generating code
+  2 of 6 functions (33.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  NtapiInjector.vcxproj -> C:\Users\PC\Desktop\Maldev\NtapiInjector\x64\Release\NtapiInjector.exe

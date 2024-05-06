@@ -1,0 +1,6 @@
+﻿  NtapiInjector.c
+C:\Users\PC\Desktop\Maldev\NtapiInjector\NtapiInjector\NtapiInjector.c(87,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Maldev\NtapiInjector\NtapiInjector\NtapiInjector.c(111,38): warning C4312: 'type cast': conversion from 'DWORD' to 'HANDLE' of greater size
+C:\Users\PC\Desktop\Maldev\NtapiInjector\NtapiInjector\NtapiInjector.c(101,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\PC\Desktop\Maldev\NtapiInjector\NtapiInjector\NtapiInjector.c(34,1): warning C4715: 'getMod': not all control paths return a value
+  NtapiInjector.vcxproj -> C:\Users\PC\Desktop\Maldev\NtapiInjector\x64\Debug\NtapiInjector.exe
